@@ -5,8 +5,8 @@
 
 </div>
 <!-- ABOUT THE PROJECT -->
-## Sobre o projeto
 
+## Sobre o projeto
 
 Realizado no âmbito da formação prestada pela Flag de Especialização em Front-End onde o objetivo final era desenvolver um projeto que cobrisse todas as tecnologias abordadas durante a mesma.
 
