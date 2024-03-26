@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
 
@@ -6,23 +5,24 @@
 
 </div>
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Realizado no âmbito da formação prestada pela Flag de Especialização em Front-End onde o objetivo final era desenvolver um projeto que cobrisse todas as tecnologias abordadas durante a mesma.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+## Requisitos do projeto
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+- [x] Utilização de React
+- [x] Utilização de pelo menos 2 Hooks
+- [x] Elaborar um CRUD
+- [x] Utilização de API externa
+- [x] Boa semântica e utilização adequada de CSS
+- [x] Utilização adequada de rotas
+- [x] Validação de formulário
+- [x] State management
 
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Tecnologias Usadas
@@ -34,13 +34,6 @@ Use the `BLANK_README.md` to get started.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Iniciar a aplicação
 
 * npm
@@ -48,21 +41,19 @@ To get a local copy up and running follow these simple example steps.
   npm install
   ```
 
-  * npm
   ```sh
   npm run dev
   ```
 
-<!-- ROADMAP -->
-## Roadmap
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
+## Objetivos futuros
+
+- Melhorar a UI
+- Passar toda a informação para API
+- Desenvolver Light/Dark theme
+- Criar versão fullstack com criação de base de dados
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
